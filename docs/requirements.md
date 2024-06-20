@@ -6,6 +6,7 @@ Functional Requirements
 •	Reminders and Notifications: Set reminders and notifications.
 •	Use of Scientifically Proven Study Methods: Implement and schedule study methods.
 •	Credit/Rewards/Badges: Implement gamification elements.
+•	Add assignments, set dues dates and subjects for assignments, receive reminders and mark assignment of completed.
 Non-Functional Requirements
 •	Usability: Intuitive and user-friendly interface.
 •	Performance: Quick loading times and responsive design.
@@ -18,4 +19,6 @@ User Stories
 •	As a student, I want to set reminders so that I don’t miss any study sessions.
 •	As a student, I want to use effective study methods so that I can learn efficiently.
 •	As a student, I want to earn rewards for completing study sessions so that I stay motivated.
- 
+•	As a student, I want to add assignments with due dates and subjects.
+•	As a student, I want to receive reminders for upcoming assignments.
+

@@ -8,6 +8,7 @@ To develop a study planner web application that helps students stay organized wi
 •	Reminders and notifications
 •	Use of scientifically proven study methods
 •	Credit/Rewards/Badges for successful study sessions
+•	Add assignments, set dues dates and subjects for assignments, receive reminders and mark assignment of completed.
 3.	Objectives
 •	Provide a comprehensive tool for students to organize and plan their studies.
 •	Implement scientifically proven study methods to enhance learning effectiveness.
