@@ -1,5 +1,22 @@
 {
     "cSpell.words": [
         "gamification"
-    ]
+    ],
+
+    "python.pythonPath": "backend\\venv\\Scripts\\python.exe",
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/node_modules": true,
+        "**/.git": true
+    }
 }
